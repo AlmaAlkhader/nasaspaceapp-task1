@@ -1,0 +1,5 @@
+streamlit==1.49.1
+mysql-connector-python==9.4.0
+pandas==2.3.2
+folium==0.20.0
+streamlit-folium==0.25.1
